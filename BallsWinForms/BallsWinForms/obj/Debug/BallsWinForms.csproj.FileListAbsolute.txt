@@ -1,0 +1,10 @@
+C:\Users\pc\source\repos\BallsWinForms\BallsWinForms\bin\Debug\BallsWinForms.exe.config
+C:\Users\pc\source\repos\BallsWinForms\BallsWinForms\bin\Debug\BallsWinForms.exe
+C:\Users\pc\source\repos\BallsWinForms\BallsWinForms\bin\Debug\BallsWinForms.pdb
+C:\Users\pc\source\repos\BallsWinForms\BallsWinForms\obj\Debug\BallsWinForms.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\BallsWinForms\BallsWinForms\obj\Debug\BallsWinForms.Form1.resources
+C:\Users\pc\source\repos\BallsWinForms\BallsWinForms\obj\Debug\BallsWinForms.Properties.Resources.resources
+C:\Users\pc\source\repos\BallsWinForms\BallsWinForms\obj\Debug\BallsWinForms.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\BallsWinForms\BallsWinForms\obj\Debug\BallsWinForms.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\BallsWinForms\BallsWinForms\obj\Debug\BallsWinForms.exe
+C:\Users\pc\source\repos\BallsWinForms\BallsWinForms\obj\Debug\BallsWinForms.pdb
