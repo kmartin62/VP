@@ -1,0 +1,10 @@
+C:\Users\pc\source\repos\BallsChaos\BallsChaos\bin\Debug\BallsChaos.exe.config
+C:\Users\pc\source\repos\BallsChaos\BallsChaos\bin\Debug\BallsChaos.exe
+C:\Users\pc\source\repos\BallsChaos\BallsChaos\bin\Debug\BallsChaos.pdb
+C:\Users\pc\source\repos\BallsChaos\BallsChaos\obj\Debug\BallsChaos.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\BallsChaos\BallsChaos\obj\Debug\BallsChaos.Form1.resources
+C:\Users\pc\source\repos\BallsChaos\BallsChaos\obj\Debug\BallsChaos.Properties.Resources.resources
+C:\Users\pc\source\repos\BallsChaos\BallsChaos\obj\Debug\BallsChaos.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\BallsChaos\BallsChaos\obj\Debug\BallsChaos.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\BallsChaos\BallsChaos\obj\Debug\BallsChaos.exe
+C:\Users\pc\source\repos\BallsChaos\BallsChaos\obj\Debug\BallsChaos.pdb
