@@ -1,0 +1,10 @@
+C:\Users\pc\source\repos\HalfCircles\HalfCircles\bin\Debug\HalfCircles.exe.config
+C:\Users\pc\source\repos\HalfCircles\HalfCircles\bin\Debug\HalfCircles.exe
+C:\Users\pc\source\repos\HalfCircles\HalfCircles\bin\Debug\HalfCircles.pdb
+C:\Users\pc\source\repos\HalfCircles\HalfCircles\obj\Debug\HalfCircles.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\HalfCircles\HalfCircles\obj\Debug\HalfCircles.Form1.resources
+C:\Users\pc\source\repos\HalfCircles\HalfCircles\obj\Debug\HalfCircles.Properties.Resources.resources
+C:\Users\pc\source\repos\HalfCircles\HalfCircles\obj\Debug\HalfCircles.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\HalfCircles\HalfCircles\obj\Debug\HalfCircles.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\HalfCircles\HalfCircles\obj\Debug\HalfCircles.exe
+C:\Users\pc\source\repos\HalfCircles\HalfCircles\obj\Debug\HalfCircles.pdb
